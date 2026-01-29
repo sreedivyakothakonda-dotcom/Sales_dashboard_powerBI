@@ -11,3 +11,7 @@ This dashboard analyzes sales performance across regions, products, and time.
 ### Tools Used
 - Power BI
 - Excel
+
+
+### Screenshots
+![Dashboard Overview]
