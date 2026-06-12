@@ -44,4 +44,5 @@ Dashboard Highlights
 👥 Gender-wise Revenue Distribution
 
 screenshots:
+-![Alt text] (https://github.com/sreedivyakothakonda-dotcom/Sales_dashboard_powerBI/blob/main/Sales%20Performance%20Dashboard.png)
 ![Dashboard Preview] (https://github.com/sreedivyakothakonda-dotcom/Sales_dashboard_powerBI/blob/main/Sales%20Performance%20Dashboard.png)
