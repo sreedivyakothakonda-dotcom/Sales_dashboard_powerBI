@@ -42,3 +42,6 @@ Dashboard Highlights
 💳 Sales by Payment Method
 🛍️ Sales by Product Line
 👥 Gender-wise Revenue Distribution
+
+screenshots:
+![Dashboard Preview] (https://github.com/sreedivyakothakonda-dotcom/Sales_dashboard_powerBI/blob/main/Sales%20Performance%20Dashboard.png)
