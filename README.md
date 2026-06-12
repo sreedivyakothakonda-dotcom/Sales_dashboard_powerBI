@@ -1,7 +1,9 @@
 # Sales_dashboard_powerBI
-
+## Recommended Structure and Order
+### 1.	Project Title / Headline
 This project presents an interactive Sales Performance Dashboard built using Power BI. The dashboard provides insights into sales performance across different cities, product lines, customer demographics, payment methods, and product ratings.
 
+### 2.	Short Description / Purpose
 The objective is to help businesses monitor key performance indicators (KPIs), identify sales trends, and make data-driven decisions.
 Features
 📊 Interactive sales performance analysis
@@ -15,7 +17,7 @@ Features
 📈 Product rating trend analysis
 🎛️ Dynamic city filtering using slicers
 
-Dashboard Highlights
+### 3.	Features / Highlights
 💰 Total Income: 31.43K
 📦 Total Quantity Sold: 11K
 ⭐ Average Rating: 6.99
@@ -26,6 +28,7 @@ Dashboard Highlights
 💳 Payment preferences vary across different cities.
 🎯 Interactive filters allow users to explore city-specific insights.
 
+### 4.	Tech Stack
 🛠️ Tools & Technologies
 📊 Power BI Desktop
 📂 Sales Dataset
@@ -43,6 +46,11 @@ Dashboard Highlights
 🛍️ Sales by Product Line
 👥 Gender-wise Revenue Distribution
 
-screenshots:
--![Alt text] (https://github.com/sreedivyakothakonda-dotcom/Sales_dashboard_powerBI/blob/main/Sales%20Performance%20Dashboard.png)
-![Dashboard Preview] (https://github.com/sreedivyakothakonda-dotcom/Sales_dashboard_powerBI/blob/main/Sales%20Performance%20Dashboard.png)
+### 5.	Data Source
+More info on where the data comes from and how it’s structured
+Example:
+Source: Kaggle
+
+### 6.	Screenshots / Demos
+Show what the dashboard looks like.
+Example: ![Dashboard Preview](https://github.com/sreedivyakothakonda-dotcom/Sales_dashboard_powerBI/blob/main/Sales%20Performance%20Dashboard.png)
